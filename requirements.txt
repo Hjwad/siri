@@ -22,6 +22,7 @@ pillow
 psutil
 pycountry
 pydub
+pyyaml
 pyfiglet
 py-tgcalls==0.9.7
 pykeyboard
